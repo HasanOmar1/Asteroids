@@ -3,3 +3,4 @@ pyproject.toml
 .venv
 uv.lock
 __pycache__/
+game_state.jsonl
